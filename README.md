@@ -1,2 +1,2 @@
 # Line-following-robot
-Its an robot which follows a line to decide it path on which it run 
+This project showcases an autonomous line-following robot built using an Arduino Uno (or Nano), IR infrared sensors for path detection, and an L298N motor driver to control DC gear motors. The robot uses PID (Proportional-Integral-Derivative) control logic to smoothly track black or white lines on the ground, adjusting motor speeds dynamically for precise navigation. Designed for beginners, this bot features a modular chassis, adjustable sensor sensitivity, and real-time error correction for optimal performance.
